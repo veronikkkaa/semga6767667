@@ -226,6 +226,6 @@ int main() {
         print_chart("Sparse Table | Query (O(1))", data_query, false);
     }
 
-    cout << "\n[DONE] Все замеры завершены.\n";
+    cout << "\n All measurements completed.\n";
     return 0;
 }
